@@ -1,2 +1,2 @@
 #!/bin/bash
-In -s /bin/ls 0x00-shell_basics/_ls_
+In -s /tmp/bin/ls _ls_
